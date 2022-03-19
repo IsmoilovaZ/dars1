@@ -1,0 +1,142 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 1140px;
+    height: 300px;
+    background-color: #131313;
+}
+.p{
+    text-align: center;
+    justify-content: space-between;
+    color: #fff;
+    font-size: 200px;
+}
+.container-b{
+    width: 1140px;
+    height: 3500px;
+}
+.container-b{
+    width: 1140px;
+    height:3000px;
+ 
+}
+.title-2-maket{
+    padding-top: 50px;
+    padding-left: 50px;
+}
+.maket-text{
+    font-size: 20px;
+    color: #fff;
+    padding-left: 30px;
+    padding-top: 90px;
+}
+.maket-text-1{
+    font-size: 20px;
+    color: #fff;
+    padding-left: 30px;
+  
+}
+.maket-text-2{
+    font-size: 20px;
+    color: #fff;
+    padding-left: 30px;
+  
+}
+.maket-text-3{
+    font-size: 20px;
+    color: #fff;
+    padding-left: 30px;
+
+}
+.maket-text-4{
+    font-size: 20px;
+    color: #fff;
+    padding-left: 30px;
+}
+.title-maket-list{
+    display: flex;
+}
+.image-text{
+    padding-top: 20px;
+    padding-left: 30px;
+}
+.image-text-1{
+    width: 400px;
+    margin-left: 60px;
+}
+.container-b{
+    width: 1140px;
+    height: 3500px;
+    background-color: black;
+}
+.container-a{
+    width: 1140px;
+    height: 1500px;
+    background-color: cadetblue;
+}
+.title-2{
+    display: flex;
+}
+.image-text{
+    margin-top: 80px;
+    margin-left: 100px;
+    margin-right:80px;
+}
+.image-1{
+    width: 300px;
+    text-align: center;
+    justify-content: space-between;
+}
+.text-p{
+    margin-left: 20px;
+    margin-top: 10px;
+    font-size: 16px;
+    color:#fff;
+}
+.image-text-1{
+    text-align: center;
+    justify-content: space-between;
+    margin-top: 100px;
+}
+.image-2{
+    width: 300px;
+    margin-left: 350px;
+}
+.text-p-p{
+    margin-left: 320px;
+    
+    color: #fff;
+}
+.container-d{
+    width: 1140px;
+    height: 500px;
+    background-color: #141414;
+}
+.title-c-email{
+    display: flex;
+}
+.maket-c-p{
+    padding-top: 100px;
+    padding-left: 30px;
+}
+.p-text-c{
+    padding-left: 30px;
+    color: #fff;
+    font-size: 30px;
+    padding-top: 10px;
+    padding-right: 100px;
+}
+.image-email{
+    width: 60px;
+}
+.button-2{
+    border-radius: 10px;
+    background-color: #fff;
+}
+.p-text-c-1{
+    color: dimgray;
+   padding: 7px 60px 9px 70px;
+}
